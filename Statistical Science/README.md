@@ -1,3 +1,3 @@
 
 
-$ \varepsilon  E(Y) = 
+\epsilon
